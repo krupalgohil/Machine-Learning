@@ -1,0 +1,10 @@
+,score,id,url,name,type,language,genres,status,rating_average
+0,1.2023952,169,https://www.tvmaze.com/shows/169/breaking-bad,Breaking Bad,Scripted,English,"['Drama', 'Crime', 'Thriller']",Ended,9.2
+1,0.8910403,27845,https://www.tvmaze.com/shows/27845/breaking-bad-original-minisodes,Breaking Bad: Original Minisodes,Scripted,English,"['Comedy', 'Crime']",Ended,7.0
+2,0.54552305,1003,https://www.tvmaze.com/shows/1003/talking-bad,Talking Bad,Talk Show,English,[],Ended,
+3,0.47752142,6101,https://www.tvmaze.com/shows/6101/breaking-band,Breaking Band,Reality,English,['Music'],Ended,
+4,0.4523879,37136,https://www.tvmaze.com/shows/37136/breaking-the-band,Breaking the Band,Documentary,English,[],Running,
+5,0.4513365,87555,https://www.tvmaze.com/shows/87555/the-bad-guys-breaking-in,The Bad Guys: Breaking In,Animation,English,"['Comedy', 'Children']",To Be Determined,
+6,0.38332763,39967,https://www.tvmaze.com/shows/39967/bradley-walsh-son-breaking-dad,Bradley Walsh & Son: Breaking Dad,Reality,English,"['Adventure', 'Travel']",Running,5.0
+7,0.31034416,16956,https://www.tvmaze.com/shows/16956/baking-mad-with-eric-lanlard,Baking Mad with Eric Lanlard,Reality,English,['Food'],Ended,
+8,0.30647516,78429,https://www.tvmaze.com/shows/78429/breaking-dad-britains-unlikeliest-drug-dealer,Breaking Dad: Britain's Unlikeliest Drug Dealer,Documentary,English,['Crime'],Ended,
